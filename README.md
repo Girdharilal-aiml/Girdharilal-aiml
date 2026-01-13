@@ -75,17 +75,6 @@
   </a>
   <a href="https://github.com/Girdharilal-aiml">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Girdharilal-aiml">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Girdharilal-aiml">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Girdharilal-aiml">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
 </p>
 
 
