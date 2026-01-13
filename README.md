@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🔭 I’m currently working on<br>• Learning programming fundamentals and building small practice projects<br><br>👯 I’m looking to collaborate on<br>• Beginner-friendly AI / ML projects<br>• Python-based open-source projects<br><br>🤝 I’m looking for help with<br>• Data Structures & Algorithms<br>• Real-world AI/ML project guidance<br><br>🌱 I’m currently learning<br>• C (fundamentals)<br>• Python<br>• Git & GitHub<br>• AI & Machine Learning basics<br><br>💬 Ask me about<br>• Starting AI as a university student<br>• Learning programming from scratch<br><br>⚡ Fun fact<br>• I’m on a mission to become a top AI Engineer before graduation 🚀<br>
 
 
