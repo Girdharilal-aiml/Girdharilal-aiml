@@ -44,26 +44,47 @@
   <a href="https://x.com/GirdharilalAiml">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/wintip_labs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:girdharilal.aiml@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://github.com/Girdharilal-aiml)"/>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
   <br/>
-  <img src="[https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://github.com/Girdharilal-aiml)"/>
-  <img src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://github.com/Girdharilal-aiml)"/>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Girdharilal-aiml">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
