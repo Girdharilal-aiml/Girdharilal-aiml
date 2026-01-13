@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 🎓 **BSAI Student at FAST NUCES**  
-🚀 Founder of **WINTIP LABS**  
+🚀 Founder of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)**    
 🔭 Learning programming fundamentals & building small projects  
 🌱 Currently learning **C, Python, Git & GitHub, AI/ML basics**  
 🤝 Looking to collaborate on **beginner-friendly AI/ML & Python projects**  
