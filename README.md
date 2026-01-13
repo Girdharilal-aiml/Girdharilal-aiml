@@ -58,7 +58,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Technologies & Tools
 
 <p align="center">
   <a href="https://github.com/Girdharilal-aiml">
