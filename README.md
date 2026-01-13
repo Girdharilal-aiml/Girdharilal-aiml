@@ -32,7 +32,9 @@
 🌱 Currently learning **C, Python, Git & GitHub, AI/ML basics**  
 🤝 Looking to collaborate on **beginner-friendly AI/ML & Python projects**  
 🧠 Need help with **DSA & real-world AI projects**  
-⚡ Mission: **Become a top AI Engineer before graduation** 🚀  
+⚡ Mission: **Become a top AI Engineer before graduation** 🚀 
+💡 I focus on learning by building, not just watching tutorials.
+
 
 ---
 
