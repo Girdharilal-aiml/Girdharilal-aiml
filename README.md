@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   
   <a href="https://github.com/Girdharilal-aiml">
-    <img src=link/>
+
   
   <a href="https://github.com/Girdharilal-aiml">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
