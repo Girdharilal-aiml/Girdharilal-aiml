@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,3,12,19,24&amp;height=200&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&amp;fontSize=36&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20FAST%20NUCES%20(BSAI)&amp;descSize=16&amp;descAlignY=58&amp;descColor=ffffff"/>
-
 <p align="center">
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=64FFDA&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=620&amp;lines=Building+AI+%26+Python+Projects+from+scratch;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Learning+by+building%2C+not+watching;On+a+mission+to+become+a+top+AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
