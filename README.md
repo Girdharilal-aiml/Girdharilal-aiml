@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20FAST%20NUCES%20(BSAI)&descSize=16&descAlignY=58&descColor=a0aec0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20FAST%20NUCES%20(BSAI)&descSize=16&descAlignY=58&descColor=ffffff"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=Building+AI+%26+Python+Projects+from+scratch;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Learning+by+building%2C+not+watching;On+a+mission+to+become+a+top+AI+Engineer" alt="Typing SVG" /></a>
@@ -88,5 +88,5 @@ I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simpl
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f3460,16213e,1a1a2e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=100&section=footer"/>
 </p>
