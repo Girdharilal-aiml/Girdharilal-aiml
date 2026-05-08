@@ -78,7 +78,7 @@ I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simpl
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800)
 
 </div>
 
