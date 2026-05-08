@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=AI%2FML+Student+%7C+FAST+NUCES+(BSAI);Building+AI+%26+Python+Projects;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Becoming+a+Top+AI+Engineer+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=AI%2FML+Student+%7C+FAST+NUCES+(BSAI);Building+AI+%26+Python+Projects;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Learning+by+building%2C+not+watching" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ### 👨‍💻 Who Am I?
 
-I'm **Girdhari Lal** — a first-generation AI/ML student at **FAST NUCES**, Karachi, building my way into the world of intelligent systems one project at a time.
+I'm **Girdhari Lal** — a first-generation AI/ML student at **FAST NUCES**, Karachi, building my way into intelligent systems one project at a time.
 
 I don't just consume tutorials — I **ship things**. From C programs to Python AI tools, everything I learn gets turned into something real.
 
-I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simple belief: *great ideas deserve great execution*.
+I founded **WINTIP LABS** — a student-led initiative helping beginners learn AI by building real-world projects. Not just a name. A movement.
 
 <br/>
 
@@ -28,28 +28,97 @@ I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simpl
 
 <br clear="right"/>
 
-<h2>About Me</h2>
+---
 
-- 🎓 **BSAI Student at FAST NUCES**
-- 🚀 Founder of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** 🔗
-- 🔭 Learning programming fundamentals & building real projects
-- 🌱 Currently learning **C, Python, Git & GitHub, AI/ML basics**
-- 🤝 Looking to collaborate on **beginner-friendly AI/ML & Python projects**
-- 🧠 Need help with **DSA & real-world AI projects**
-- 📫 How to reach me: **girdharilal.aiml@gmail.com**
-- ⚡ Mission: **Become a top AI Engineer before graduation 🚀**
+<h2>🧭 About Me</h2>
 
-<br/>
+- 🎓 **BSAI Student at FAST NUCES**, Karachi
+- 🚀 Founder of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** — AI for beginners, by builders
+- 🔭 Learning by shipping — every concept becomes a project
+- 🌱 Currently mastering **C, Python, OOP, DSA, AI/ML fundamentals**
+- 🤝 Open to **beginner-friendly AI/ML collabs & open source**
+- 📫 Reach me: **girdharilal.aiml@gmail.com**
+- ⚡ Mission: **Top AI Engineer before graduation 🚀**
 
-<h2 align="center">Languages and Tools</h2>
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js&perline=6" alt="Tech Stack"/>
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🤖 **AI Resume Analyzer** | Scores resumes using NLP & keyword matching | Python, NLP | 🔨 Building |
+| 📊 **Student Performance Predictor** | ML model predicting academic outcomes | Python, scikit-learn | 🔨 Building |
+| 👁️ **Sign Vision AI** | Real-time sign language detection with OpenCV | Python, OpenCV, CV | ✅ Done |
+| ✈️ **AirCanvas** | Draw in air using hand gestures & CV | Python, MediaPipe | ✅ Done |
+| 🏭 **Factory Management System** | OOP-based C system for production tracking | C | ✅ Done |
+
 </p>
 
-<br/>
+---
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+| Area | Topics |
+|---|---|
+| 🧠 AI/ML | Machine Learning fundamentals, model building |
+| 💻 CS Core | Data Structures & Algorithms, OOP |
+| 🔢 Math for AI | Linear Algebra, Probability & Statistics |
+| 🐍 Python Ecosystem | NumPy, Pandas, scikit-learn, Jupyter |
+| 🌐 Dev Tools | Git, GitHub, Linux basics |
+
+</p>
+
+---
+
+<h2 align="center">🎯 2026 Goals</h2>
+
+<p align="center">
+
+| Goal | Progress |
+|---|---|
+| 🧩 Solve 200 DSA problems | 🔄 In progress |
+| 🏗️ Build 10 production-ready projects | 🔄 In progress |
+| 🤝 First open source contribution | ⏳ Pending |
+| 💼 Land first internship | ⏳ Pending |
+| ✍️ Publish 6 technical writeups | ⏳ Pending |
+
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,numpy,sklearn,jupyter,git&perline=5" alt="Tech Stack"/>
+</p>
+
+---
+
+<h2 align="center">💡 Philosophy</h2>
+
+```python
+while True:
+    idea = think()
+    project = build(idea)
+    result = ship(project)
+
+    if result == "failed":
+        lesson = learn(result)
+        improve(lesson)
+    else:
+        celebrate()
+        repeat()
+```
+
+> *This is how WINTIP LABS was born. This is how everything gets built.*
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/girdhari-lal-ai/" target="_blank">
@@ -66,9 +135,9 @@ I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simpl
 </a>
 </p>
 
-<br/>
+---
 
-<h2 align="center">GitHub Contributions</h2>
+<h2 align="center">📊 GitHub Contributions</h2>
 
 <br/>
 
