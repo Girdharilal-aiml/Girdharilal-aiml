@@ -1,7 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Student+%7C+FAST+NUCES+(BSAI);Building+AI+%26+Python+Projects;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Becoming+a+Top+AI+Engineer+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=AI%2FML+Student+%7C+FAST+NUCES+(BSAI);Building+AI+%26+Python+Projects;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Becoming+a+Top+AI+Engineer+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Girdharilal-aiml&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS" alt="Visitor Counter"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
@@ -10,15 +14,25 @@
 
 <img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-<p align="justify">Passionate AI/ML student at FAST NUCES (BSAI), learning programming fundamentals and building real-world projects. Founder of <strong>WINTIP LABS</strong>. Currently deepening my skills in C, Python, Git & GitHub, and AI/ML — driven by a mission to become a top AI Engineer before graduation. I focus on learning by building, not just watching tutorials.</p>
+### 👨‍💻 Who Am I?
 
-<br/><br/>
+I'm **Girdhari Lal** — a first-generation AI/ML student at **FAST NUCES**, Karachi, building my way into the world of intelligent systems one project at a time.
+
+I don't just consume tutorials — I **ship things**. From C programs to Python AI tools, everything I learn gets turned into something real.
+
+I founded **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** with a simple belief: *great ideas deserve great execution*.
+
+<br/>
+
+> *"I'm not the smartest in the room — but I'll be the most consistent."*
+
+<br clear="right"/>
 
 <h2>About Me</h2>
 
 - 🎓 **BSAI Student at FAST NUCES**
 - 🚀 Founder of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** 🔗
-- 🔭 Learning programming fundamentals & building small projects
+- 🔭 Learning programming fundamentals & building real projects
 - 🌱 Currently learning **C, Python, Git & GitHub, AI/ML basics**
 - 🤝 Looking to collaborate on **beginner-friendly AI/ML & Python projects**
 - 🧠 Need help with **DSA & real-world AI projects**
@@ -30,7 +44,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,github&perline=8" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js&perline=6" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -59,18 +73,21 @@
 <br/>
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=github_dark" alt="Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=github_dark" alt="Most Commit Language"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=github_dark&utcOffset=5" alt="Productive Time"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <br/>
@@ -78,7 +95,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer"/>
 </p>
-
-
-see this readme of github 
-can we improve ?
