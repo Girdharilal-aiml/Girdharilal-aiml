@@ -142,13 +142,8 @@ while True:
 <br/>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=github_dark" alt="Stats"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=github_dark" alt="Most Commit Language"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Girdharilal-aiml&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdharilal-aiml&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
