@@ -142,17 +142,21 @@ while True:
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Girdharilal-aiml&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdharilal-aiml&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=github_dark" alt="Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800" alt="GitHub Streak"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=github_dark" alt="Most Commit Language"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=github_dark&utcOffset=5" alt="Productive Time"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <br/>
