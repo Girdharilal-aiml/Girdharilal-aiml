@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Who Am I?
 
-I'm **Girdhari Lal** — a first-generation AI/ML student at **FAST NUCES**, Karachi, building my way into intelligent systems one project at a time.
+I'm **Girdhari Lal** — an AI/ML student at **FAST NUCES**, Karachi, building my way into intelligent systems one project at a time.
 
 I don't just consume tutorials — I **ship things**. From C programs to Python AI tools, everything I learn gets turned into something real.
 
@@ -93,7 +93,17 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,numpy,sklearn,jupyter,git&perline=5" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,git,docker,ubuntu&perline=5" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/NLP-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
 </p>
 
 ---
@@ -142,21 +152,17 @@ while True:
 <br/>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=github_dark" alt="Stats"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Girdharilal-aiml&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdharilal-aiml&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=github_dark" alt="Most Commit Language"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Girdharilal-aiml&theme=github-dark-blue&hide_border=true&card_width=800" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Girdharilal-aiml&theme=github-compact&hide_border=true&area=true&color=64FFDA&line=64FFDA&point=ffffff" alt="Activity Graph"/>
 </p>
 
 <br/>
