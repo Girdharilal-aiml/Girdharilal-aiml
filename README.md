@@ -93,17 +93,7 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,git,docker,ubuntu&perline=5" alt="Tech Stack"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/NLP-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,docker,ubuntu,numpy,pandas,sklearn,matplotlib,pytorch,jupyter&perline=5" alt="Tech Stack"/>
 </p>
 
 ---
@@ -152,9 +142,13 @@ while True:
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Girdharilal-aiml&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdharilal-aiml&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Girdharilal-aiml&theme=github_dark" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages by Repo"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Girdharilal-aiml&theme=github_dark" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Girdharilal-aiml&theme=github_dark&utcOffset=5" alt="Commits by Time"/>
 </p>
 
 <p align="center">
