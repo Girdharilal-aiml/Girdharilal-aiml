@@ -86,7 +86,7 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 | 🏗️ Ship 11+ production ML systems | ✅ Done — 11 shipped at internship |
 | 💼 Land first AI/ML internship | ✅ Done — Developers Hub Corporation |
 | 🤝 Contribute to open source | ✅ Done — PRs to yasbd-lib, PyScrappy, openuni & more |
-| 🧩 Build 39+ Python projects | ✅ Done — Python 39 Projects repo |
+| 🧩 Build 40+ Python projects | ✅ Done — Python 39 Projects repo |
 | 🌍 Volunteer AI work for social good | ✅ Done — The Bridge of Hopes |
 | 🏆 Join a coding competition | ✅ Done — Code Sprint, ACM NUCES |
 | 🏗️ Build 5 more advanced AI projects | 🔄 In progress |
