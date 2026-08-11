@@ -54,7 +54,7 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 | 🏠 **Multimodal Housing Predictor** | CNN + tabular fusion for price regression | PyTorch, torchvision, sklearn | $12K MAE vs $61K baseline |
 | 👁️ **Smart Attendance Platform** | Real-time face recognition with 101-test suite | OpenCV, dlib, SQLite, CustomTkinter | Production-grade |
 | 🤟 **SignVision AI** | Real-time ASL translator, zero training needed | OpenCV, MediaPipe | Live video stream |
-| 🐍 **Python — 40 Projects** | GUI & utility apps: games, editors, AI tools | Python, tkinter, pygame | 39 shipped projects |
+| 🐍 **Python — 39 Projects** | GUI & utility apps: games, editors, AI tools | Python, tkinter, pygame | 39 shipped projects |
 
 </p>
 
@@ -104,18 +104,11 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,vscode,github,sqlite,gradio,anaconda,figma&perline=5" alt="Tech Stack 2"/>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,vscode,github,sqlite,streamlit,anaconda,figma&perline=5" alt="Tech Stack 2"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,huggingface,opencv,flask,gradio,fastapi,postgres,jupyter&perline=5" alt="Tech Stack 3"/>
 </p>
 
 ---
