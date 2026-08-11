@@ -54,7 +54,7 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 | 🏠 **Multimodal Housing Predictor** | CNN + tabular fusion for price regression | PyTorch, torchvision, sklearn | $12K MAE vs $61K baseline |
 | 👁️ **Smart Attendance Platform** | Real-time face recognition with 101-test suite | OpenCV, dlib, SQLite, CustomTkinter | Production-grade |
 | 🤟 **SignVision AI** | Real-time ASL translator, zero training needed | OpenCV, MediaPipe | Live video stream |
-| 🐍 **Python — 39 Projects** | GUI & utility apps: games, editors, AI tools | Python, tkinter, pygame | 39 shipped projects |
+| 🐍 **Python — 40 Projects** | GUI & utility apps: games, editors, AI tools | Python, tkinter, pygame | 39 shipped projects |
 
 </p>
 
