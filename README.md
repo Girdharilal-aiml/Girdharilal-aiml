@@ -104,11 +104,19 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,vscode,github,sqlite,streamlit,anaconda,figma&perline=5" alt="Tech Stack 2"/>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,flask,git,linux,vscode,github,sqlite,postgres,jupyter&perline=5" alt="Tech Stack 2"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,huggingface,opencv,flask,gradio,fastapi,postgres,jupyter&perline=5" alt="Tech Stack 3"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=python&logoColor=white" alt="Gradio"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
 </p>
 
 ---
