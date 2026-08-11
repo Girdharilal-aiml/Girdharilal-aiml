@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Girdhari%20Lal&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=AI%2FML+Student+%7C+FAST+NUCES+(BSAI);Building+AI+%26+Python+Projects;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Learning+by+building%2C+not+watching" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=680&lines=AI%2FML+Engineer+%7C+FAST+NUCES+(BSAI);Fine-tuned+BERT+to+93.8%25+Accuracy;Built+11+End-to-End+ML+Systems;Founder+of+WINTIP+LABS+%F0%9F%9A%80;Building+AI+Systems%2C+Not+Just+Studying+Them" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ### 👨‍💻 Who Am I?
 
-I'm **Girdhari Lal** — an AI/ML student at **FAST NUCES**, Karachi, building my way into intelligent systems one project at a time.
+I'm **Girdhari Lal** — an AI/ML Engineer and BSAI student at **FAST NUCES**, Karachi, shipping production-grade AI systems while still in my first year.
 
-I don't just consume tutorials — I **ship things**. From C programs to Python AI tools, everything I learn gets turned into something real.
+I've fine-tuned **BERT to 93.8% accuracy**, built a **RAG chatbot with 100% top-3 retrieval recall**, and shipped **11 end-to-end ML systems** across NLP, computer vision, and deep learning.
 
 I founded **WINTIP LABS** — a student-led initiative helping beginners learn AI by building real-world projects. Not just a name. A movement.
 
@@ -32,11 +32,12 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 
 <h2>🧭 About Me</h2>
 
-- 🎓 **BSAI Student at FAST NUCES**, Karachi
-- 🚀 Founder of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** — AI for beginners, by builders
-- 🔭 Learning by shipping — every concept becomes a project
-- 🌱 Currently mastering **C, Python, OOP, DSA, AI/ML fundamentals**
-- 🤝 Open to **beginner-friendly AI/ML collabs & open source**
+- 🎓 **BSAI Student at FAST NUCES**, Karachi (2025–2029)
+- 🏢 **AI/ML Intern** @ Developers Hub Corporation — shipped 11 ML systems in 1.5 months
+- 🚀 **Founder** of **[WINTIP LABS](https://www.instagram.com/wintip_labs/)** — AI for beginners, by builders
+- 🤝 Volunteering @ **The Bridge of Hopes** — AI for children with special needs
+- 🏆 **Code Sprint** participant — ACM NUCES Karachi, Developers Day '26
+- 🌱 Currently mastering **Deep Learning, Transformers, RAG, Computer Vision**
 - 📫 Reach me: **girdharilal.aiml@gmail.com**
 - ⚡ Mission: **Top AI Engineer before graduation 🚀**
 
@@ -46,13 +47,14 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 
 <p align="center">
 
-| Project | Description | Tech | Status |
+| Project | Description | Tech | Highlight |
 |---|---|---|---|
-| 🤖 **AI Resume Analyzer** | Scores resumes using NLP & keyword matching | Python, NLP | 🔨 Building |
-| 📊 **Student Performance Predictor** | ML model predicting academic outcomes | Python, scikit-learn | 🔨 Building |
-| 👁️ **Sign Vision AI** | Real-time sign language detection with OpenCV | Python, OpenCV, CV | ✅ Done |
-| ✈️ **AirCanvas** | Draw in air using hand gestures & CV | Python, MediaPipe | ✅ Done |
-| 🏭 **Factory Management System** | OOP-based C system for production tracking | C | ✅ Done |
+| 🤖 **BERT News Classifier** | 4-class news classification with live Gradio demo | PyTorch, HuggingFace, BERT | 93.8% accuracy, 0.936 F1 |
+| 🔍 **Context-Aware RAG Chatbot** | Retrieval-augmented chatbot over 13 AI/ML docs | Claude API, TF-IDF, Streamlit | 100% top-3 recall |
+| 🏠 **Multimodal Housing Predictor** | CNN + tabular fusion for price regression | PyTorch, torchvision, sklearn | $12K MAE vs $61K baseline |
+| 👁️ **Smart Attendance Platform** | Real-time face recognition with 101-test suite | OpenCV, dlib, SQLite, CustomTkinter | Production-grade |
+| 🤟 **SignVision AI** | Real-time ASL translator, zero training needed | OpenCV, MediaPipe | Live video stream |
+| 🐍 **Python — 39 Projects** | GUI & utility apps: games, editors, AI tools | Python, tkinter, pygame | 39 shipped projects |
 
 </p>
 
@@ -64,11 +66,12 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 
 | Area | Topics |
 |---|---|
-| 🧠 AI/ML | Machine Learning fundamentals, model building |
+| 🧠 Deep Learning | Transformers, fine-tuning, model evaluation |
+| 🔍 LLM & RAG | Prompt engineering, vector stores, retrieval systems |
+| 👁️ Computer Vision | CNN design, MediaPipe, real-time pipelines |
 | 💻 CS Core | Data Structures & Algorithms, OOP |
 | 🔢 Math for AI | Linear Algebra, Probability & Statistics |
-| 🐍 Python Ecosystem | NumPy, Pandas, scikit-learn, Jupyter |
-| 🌐 Dev Tools | Git, GitHub, Linux basics |
+| 🚀 Deployment | FastAPI, Docker, Streamlit, Gradio |
 
 </p>
 
@@ -80,11 +83,15 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 
 | Goal | Progress |
 |---|---|
-| 🧩 Solve 200 DSA problems | 🔄 In progress |
-| 🏗️ Build 10 production-ready projects | 🔄 In progress |
-| 🤝 First open source contribution | ⏳ Pending |
-| 💼 Land first internship | ⏳ Pending |
-| ✍️ Publish 6 technical writeups | ⏳ Pending |
+| 🏗️ Ship 11+ production ML systems | ✅ Done — 11 shipped at internship |
+| 💼 Land first AI/ML internship | ✅ Done — Developers Hub Corporation |
+| 🤝 Contribute to open source | ✅ Done — PRs to yasbd-lib, PyScrappy, openuni & more |
+| 🧩 Build 39+ Python projects | ✅ Done — Python 39 Projects repo |
+| 🌍 Volunteer AI work for social good | ✅ Done — The Bridge of Hopes |
+| 🏆 Join a coding competition | ✅ Done — Code Sprint, ACM NUCES |
+| 🏗️ Build 5 more advanced AI projects | 🔄 In progress |
+| ✍️ Publish technical writeups | ⏳ Pending |
+| 🎓 Land second internship / freelance AI client | ⏳ Pending |
 
 </p>
 
@@ -93,7 +100,22 @@ I founded **WINTIP LABS** — a student-led initiative helping beginners learn A
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,docker,ubuntu,numpy,pandas,sklearn,matplotlib,pytorch,jupyter&perline=5" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,pytorch,tensorflow,sklearn,opencv&perline=5" alt="Tech Stack 1"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,vscode,github,sqlite,gradio,anaconda,figma&perline=5" alt="Tech Stack 2"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
 </p>
 
 ---
